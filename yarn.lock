@@ -957,7 +957,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
     pubnub "^4.29.11"
@@ -971,6 +971,9 @@
     "@react-navigation/native" "^5.9.2"
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
+
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
 
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
