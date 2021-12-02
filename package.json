@@ -14,7 +14,6 @@
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
     "@modules/camera": "file:./modules/camera",
-    "@modules/chat": "file:./modules/chat/",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/splash": "file:./modules/splash/",
