@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
-    "@modules/camera": "file:./modules/camera",
     "@modules/login": "file:./modules/login/",
     "@modules/splash": "file:./modules/splash/",
     "@react-native-community/masked-view": "^0.1.10",
